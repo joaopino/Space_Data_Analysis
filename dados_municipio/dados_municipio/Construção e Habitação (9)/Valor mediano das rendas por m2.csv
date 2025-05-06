@@ -1,0 +1,639 @@
+local,codigo,Valor mediano das rendas por m2
+Portugal,PT,7.97
+Continente,1,8.0
+Norte,11,6.94
+Alto Minho,111,5.89
+Arcos de Valdevez,1111601,4.64
+Caminha,1111602,5.83
+Melgaço,1111603,3.29
+Monção,1111604,6.58
+Paredes de Coura,1111605,3.84
+Ponte da Barca,1111606,3.64
+Ponte de Lima,1111607,5.32
+Valença,1111608,4.79
+Viana do Castelo,1111609,6.99
+Vila Nova de Cerveira,1111610,4.55
+Cávado,112,6.98
+Amares,1120301,4.47
+Barcelos,1120302,5.42
+Braga,1120303,7.69
+Esposende,1120306,7.37
+Terras de Bouro,1120310,0.0
+Vila Verde,1120313,5.0
+Ave,119,5.34
+Cabeceiras de Basto,1190304,4.23
+Fafe,1190307,4.12
+Guimarães,1190308,5.75
+Mondim de Basto,1191705,0.0
+Póvoa de Lanhoso,1190309,4.68
+Vieira do Minho,1190311,0.0
+Vila Nova de Famalicão,1190312,5.71
+Vizela,1190314,4.83
+Área Metropolitana do Porto,11A,8.85
+Arouca,11A0104,5.03
+Alvarenga,11A010402,0.0
+Chave,11A010407,0.0
+Escariz,11A010409,0.0
+Fermedo,11A010411,0.0
+Mansores,11A010413,0.0
+Moldes,11A010414,0.0
+Rossas,11A010415,0.0
+Santa Eulália,11A010416,0.0
+São Miguel do Mato,11A010417,0.0
+Tropeço,11A010418,0.0
+União das freguesias de Arouca e Burgo,11A010421,6.28
+União das freguesias de Cabreiros e Albergaria da Serra,11A010422,0.0
+União das freguesias de Canelas e Espiunca,11A010423,0.0
+União das freguesias de Covelo de Paivó e Janarde,11A010424,0.0
+Urrô,11A010419,0.0
+Várzea,11A010420,0.0
+Espinho,11A0107,8.04
+Espinho,11A010702,8.71
+Paramos,11A010704,0.0
+Silvalde,11A010705,8.19
+União das freguesias de Anta e Guetim,11A010706,7.27
+Gondomar,11A1304,7.56
+Baguim do Monte (Rio Tinto),11A130412,9.26
+Lomba,11A130405,0.0
+Rio Tinto,11A130408,8.18
+União das freguesias de Fânzeres e São Pedro da Cova,11A130413,6.46
+União das freguesias de Foz do Sousa e Covelo,11A130414,0.0
+"União das freguesias de Gondomar (São Cosme), Valbom e Jovim",11A130415,6.67
+União das freguesias de Melres e Medas,11A130416,0.0
+Maia,11A1306,8.57
+Águas Santas,11A130601,8.25
+Castêlo da Maia,11A130618,7.98
+Cidade da Maia,11A130619,9.1
+Folgosa,11A130603,0.0
+Milheirós,11A130608,0.0
+Moreira,11A130609,8.56
+Nogueira e Silva Escura,11A130620,7.94
+Pedrouços,11A130617,9.69
+São Pedro Fins,11A130613,0.0
+Vila Nova da Telha,11A130616,8.43
+Matosinhos,11A1308,11.11
+"União das freguesias de Custóias, Leça do Balio e Guifões",11A130811,8.46
+União das freguesias de Matosinhos e Leça da Palmeira,11A130812,12.99
+"União das freguesias de Perafita, Lavra e Santa Cruz do Bispo",11A130813,8.48
+União das freguesias de São Mamede de Infesta e Senhora da Hora,11A130814,11.18
+Oliveira de Azeméis,11A0113,4.88
+Carregosa,11A011301,0.0
+Cesar,11A011302,0.0
+Fajões,11A011303,0.0
+Loureiro,11A011304,0.0
+Macieira de Sarnes,11A011305,0.0
+Ossela,11A011310,0.0
+São Martinho da Gândara,11A011315,0.0
+São Roque,11A011318,3.57
+União das freguesias de Nogueira do Cravo e Pindelo,11A011320,4.84
+"União das freguesias de Oliveira de Azeméis, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail",11A011321,5.26
+"União das freguesias de Pinheiro da Bemposta, Travanca e Palmaz",11A011322,0.0
+Vila de Cucujães,11A011319,5.86
+Paredes,11A1310,5.19
+Aguiar de Sousa,11A131001,0.0
+Astromil,11A131002,0.0
+Baltar,11A131003,0.0
+Beire,11A131004,0.0
+Cete,11A131008,0.0
+Cristelo,11A131009,0.0
+Duas Igrejas,11A131010,0.0
+Gandra,11A131011,5.44
+Lordelo,11A131013,4.92
+Louredo,11A131014,0.0
+Parada de Todeia,11A131017,0.0
+Paredes,11A131025,5.69
+Rebordosa,11A131018,4.64
+Recarei,11A131019,0.0
+Sobreira,11A131020,0.0
+Sobrosa,11A131021,0.0
+Vandoma,11A131022,0.0
+Vilela,11A131024,0.0
+Porto,11A1312,12.58
+Bonfim,11A131202,13.03
+Campanhã,11A131203,12.37
+Paranhos,11A131210,11.77
+Ramalde,11A131211,11.44
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",11A131216,14.29
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",11A131217,13.64
+União das freguesias de Lordelo do Ouro e Massarelos,11A131218,12.97
+Póvoa de Varzim,11A1313,8.15
+Balazar,11A131305,0.0
+Estela,11A131307,0.0
+Laundos,11A131308,0.0
+Rates,11A131311,0.0
+"União das freguesias da Póvoa de Varzim, Beiriz e Argivai",11A131315,8.55
+União das freguesias de Aguçadoura e Navais,11A131314,6.67
+"União das freguesias de Aver-o-Mar, Amorim e Terroso",11A131313,7.73
+Santa Maria da Feira,11A0109,5.86
+Argoncilhe,11A010901,4.94
+Arrifana,11A010902,5.89
+Escapães,11A010904,0.0
+Fiães,11A010907,5.7
+Fornos,11A010908,0.0
+Lourosa,11A010913,5.56
+Milheirós de Poiares,11A010914,0.0
+Mozelos,11A010916,0.0
+Nogueira da Regedoura,11A010917,0.0
+Paços de Brandão,11A010919,0.0
+Rio Meão,11A010921,0.0
+Romariz,11A010922,0.0
+Sanguedo,11A010924,0.0
+Santa Maria de Lamas,11A010925,0.0
+São João de Ver,11A010926,5.93
+São Paio de Oleiros,11A010918,0.0
+União das freguesias de Caldas de São Jorge e Pigeiros,11A010932,0.0
+"União das freguesias de Canedo, Vale e Vila Maior",11A010933,4.32
+"União das freguesias de Lobão, Gião, Louredo e Guisande",11A010934,4.67
+"União das freguesias de Santa Maria da Feira, Travanca, Sanfins e Espargo",11A010935,6.65
+União de freguesias de São Miguel de Souto e Mosteirô,11A010936,0.0
+Santo Tirso,11A1314,5.15
+Agrela,11A131401,0.0
+Água Longa,11A131402,0.0
+Aves,11A131405,4.67
+Monte Córdova,11A131413,0.0
+Negrelos (São Tomé),11A131430,0.0
+Rebordões,11A131416,0.0
+Reguenga,11A131418,0.0
+Roriz,11A131419,0.0
+"União das freguesias de Areias, Sequeiró, Lama e Palmeira",11A131433,0.0
+União das freguesias de Carreira e Refojos de Riba de Ave,11A131435,0.0
+União das freguesias de Lamelas e Guimarei,11A131436,0.0
+"União das freguesias de Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães",11A131437,6.13
+Vila Nova do Campo,11A131434,0.0
+Vilarinho,11A131432,0.0
+São João da Madeira,11A0116,6.38
+São João da Madeira,11A011601,6.38
+Trofa,11A1318,6.8
+Covelas,11A131806,0.0
+Muro,11A131808,0.0
+União das freguesias de Alvarelhos e Guidões,11A131809,0.0
+União das freguesias de Bougado (São Martinho e Santiago),11A131810,7.22
+União das freguesias de Coronado (São Romão e São Mamede),11A131811,5.95
+Vale de Cambra,11A0119,4.65
+Arões,11A011901,0.0
+Cepelos,11A011903,0.0
+Junqueira,11A011905,0.0
+Macieira de Cambra,11A011906,0.0
+Roge,11A011907,0.0
+São Pedro de Castelões,11A011902,5.13
+"União das freguesias de Vila Chã, Codal e Vila Cova de Perrinho",11A011910,4.25
+Valongo,11A1315,7.75
+Alfena,11A131501,7.65
+Ermesinde,11A131503,8.14
+União das freguesias de Campo e Sobrado,11A131506,6.03
+Valongo,11A131505,7.95
+Vila do Conde,11A1316,7.19
+Árvore,11A131602,6.85
+Aveleda,11A131603,0.0
+Azurara,11A131604,0.0
+Fajozes,11A131607,0.0
+Gião,11A131610,0.0
+Guilhabreu,11A131611,0.0
+Junqueira,11A131612,0.0
+Labruge,11A131613,9.2
+Macieira da Maia,11A131614,0.0
+Mindelo,11A131616,0.0
+Modivas,11A131617,0.0
+"União das freguesias de Bagunte, Ferreiró, Outeiro Maior e Parada",11A131631,0.0
+União das freguesias de Fornelo e Vairão,11A131632,0.0
+União das freguesias de Malta e Canidelo,11A131633,0.0
+União das freguesias de Retorta e Tougues,11A131634,0.0
+União das freguesias de Rio Mau e Arcos,11A131635,0.0
+União das freguesias de Touguinha e Touguinhó,11A131636,0.0
+União das freguesias de Vilar e Mosteiró,11A131637,0.0
+Vila Chã,11A131627,0.0
+Vila do Conde,11A131628,7.83
+Vilar de Pinheiro,11A131630,0.0
+Vila Nova de Gaia,11A1317,9.39
+Arcozelo,11A131701,8.78
+Avintes,11A131702,8.13
+Canelas,11A131703,7.62
+Canidelo,11A131704,9.72
+Madalena,11A131709,9.6
+Oliveira do Douro,11A131712,9.31
+São Félix da Marinha,11A131717,8.42
+União das freguesias de Grijó e Sermonde,11A131725,6.04
+União das freguesias de Gulpilhares e Valadares,11A131726,8.66
+União das freguesias de Mafamude e Vilar do Paraíso,11A131727,10.31
+União das freguesias de Pedroso e Seixezelo,11A131728,6.81
+"União das freguesias de Sandim, Olival, Lever e Crestuma",11A131729,5.56
+União das freguesias de Santa Marinha e São Pedro da Afurada,11A131730,11.01
+União das freguesias de Serzedo e Perosinho,11A131731,7.03
+Vilar de Andorinho,11A131723,8.06
+Alto Tâmega e Barroso,11B,4.3
+Boticas,11B1702,0.0
+Chaves,11B1703,4.84
+Montalegre,11B1706,0.0
+Ribeira de Pena,11B1709,0.0
+Valpaços,11B1712,3.08
+Vila Pouca de Aguiar,11B1713,3.59
+Tâmega e Sousa,11C,4.1
+Amarante,11C1301,4.17
+Baião,11C1302,3.43
+Castelo de Paiva,11C0106,3.51
+Celorico de Basto,11C0305,3.58
+Cinfães,11C1804,3.72
+Felgueiras,11C1303,3.45
+Lousada,11C1305,4.24
+Marco de Canaveses,11C1307,4.07
+Paços de Ferreira,11C1309,4.59
+Penafiel,11C1311,4.74
+Resende,11C1813,0.0
+Douro,11D,4.03
+Alijó,11D1701,0.0
+Armamar,11D1801,0.0
+Carrazeda de Ansiães,11D0403,0.0
+Freixo de Espada à Cinta,11D0404,0.0
+Lamego,11D1805,3.77
+Mesão Frio,11D1704,0.0
+Moimenta da Beira,11D1807,3.03
+Murça,11D1707,0.0
+Penedono,11D1812,0.0
+Peso da Régua,11D1708,4.38
+Sabrosa,11D1710,0.0
+Santa Marta de Penaguião,11D1711,0.0
+São João da Pesqueira,11D1815,0.0
+Sernancelhe,11D1818,0.0
+Tabuaço,11D1819,0.0
+Tarouca,11D1820,0.0
+Torre de Moncorvo,11D0409,0.0
+Vila Nova de Foz Côa,11D0914,2.57
+Vila Real,11D1714,4.96
+Terras de Trás-os-Montes,11E,3.02
+Alfândega da Fé,11E0401,0.0
+Bragança,11E0402,3.23
+Macedo de Cavaleiros,11E0405,3.07
+Miranda do Douro,11E0406,2.97
+Mirandela,11E0407,2.78
+Mogadouro,11E0408,0.0
+Vila Flor,11E0410,2.5
+Vimioso,11E0411,0.0
+Vinhais,11E0412,0.0
+Centro,19,5.53
+Região de Aveiro,191,6.31
+Águeda,1910101,5.21
+Albergaria-a-Velha,1910102,5.55
+Anadia,1910103,5.22
+Aveiro,1910105,8.18
+Estarreja,1910108,5.66
+Ílhavo,1910110,7.07
+Murtosa,1910112,5.17
+Oliveira do Bairro,1910114,5.33
+Ovar,1910115,6.19
+Sever do Vouga,1910117,3.85
+Vagos,1910118,5.97
+Região de Coimbra,192,6.07
+Arganil,1920601,4.66
+Cantanhede,1920602,4.76
+Coimbra,1920603,7.76
+Condeixa-a-Nova,1920604,5.51
+Figueira da Foz,1920605,7.14
+Góis,1920606,0.0
+Lousã,1920607,4.78
+Mealhada,1920111,4.97
+Mira,1920608,4.58
+Miranda do Corvo,1920609,5.22
+Montemor-o-Velho,1920610,4.98
+Mortágua,1921808,3.46
+Oliveira do Hospital,1920611,3.81
+Pampilhosa da Serra,1920612,0.0
+Penacova,1920613,3.72
+Penela,1920614,0.0
+Soure,1920615,4.41
+Tábua,1920616,3.85
+Vila Nova de Poiares,1920617,3.77
+Região de Leiria,193,5.7
+Alvaiázere,1931002,0.0
+Ansião,1931003,3.65
+Batalha,1931004,6.05
+Castanheira de Pêra,1931007,0.0
+Figueiró dos Vinhos,1931008,0.0
+Leiria,1931009,6.42
+Marinha Grande,1931010,5.68
+Pedrógão Grande,1931013,0.0
+Pombal,1931015,4.76
+Porto de Mós,1931016,4.22
+Viseu Dão Lafões,194,5.0
+Aguiar da Beira,1940901,0.0
+Carregal do Sal,1941802,3.79
+Castro Daire,1941803,3.4
+Mangualde,1941806,4.29
+Nelas,1941809,3.91
+Oliveira de Frades,1941810,4.2
+Penalva do Castelo,1941811,0.0
+Santa Comba Dão,1941814,4.01
+São Pedro do Sul,1941816,5.27
+Sátão,1941817,2.79
+Tondela,1941821,5.0
+Vila Nova de Paiva,1941822,0.0
+Viseu,1941823,5.72
+Vouzela,1941824,3.44
+Beira Baixa,195,4.36
+Castelo Branco,1950502,4.54
+Idanha-a-Nova,1950505,0.0
+Oleiros,1950506,0.0
+Penamacor,1950507,0.0
+Proença-a-Nova,1950508,4.26
+Sertã,1950509,4.17
+Vila de Rei,1950510,0.0
+Vila Velha de Ródão,1950511,0.0
+Beiras e Serra da Estrela,196,4.11
+Almeida,1960902,0.0
+Belmonte,1960501,3.22
+Celorico da Beira,1960903,0.0
+Covilhã,1960503,5.0
+Figueira de Castelo Rodrigo,1960904,0.0
+Fornos de Algodres,1960905,0.0
+Fundão,1960504,4.5
+Gouveia,1960906,2.99
+Guarda,1960907,4.17
+Manteigas,1960908,0.0
+Mêda,1960909,0.0
+Pinhel,1960910,0.0
+Sabugal,1960911,3.52
+Seia,1960912,3.85
+Trancoso,1960913,0.0
+Oeste e Vale do Tejo,1D,6.25
+Oeste,1D1,6.98
+Alcobaça,1D11001,6.2
+Alenquer,1D11101,7.82
+Arruda dos Vinhos,1D11102,6.75
+Bombarral,1D11005,5.8
+Cadaval,1D11104,4.9
+Caldas da Rainha,1D11006,7.04
+Lourinhã,1D11108,6.21
+Nazaré,1D11011,7.86
+Óbidos,1D11012,6.61
+Peniche,1D11014,6.64
+Sobral de Monte Agraço,1D11112,5.29
+Torres Vedras,1D11113,8.09
+Médio Tejo,1D2,5.6
+Abrantes,1D21401,5.26
+Alcanena,1D21402,4.6
+Constância,1D21408,0.0
+Entroncamento,1D21410,6.79
+Ferreira do Zêzere,1D21411,4.37
+Mação,1D21413,3.33
+Ourém,1D21421,5.7
+Sardoal,1D21417,0.0
+Tomar,1D21418,6.0
+Torres Novas,1D21419,6.0
+Vila Nova da Barquinha,1D21420,0.0
+Lezíria do Tejo,1D3,5.96
+Almeirim,1D31403,5.86
+Alpiarça,1D31404,0.0
+Azambuja,1D31103,6.24
+Benavente,1D31405,7.1
+Cartaxo,1D31406,5.16
+Chamusca,1D31407,3.74
+Coruche,1D31409,5.57
+Golegã,1D31412,4.74
+Rio Maior,1D31414,4.53
+Salvaterra de Magos,1D31415,6.13
+Santarém,1D31416,6.67
+Grande Lisboa,1A,13.06
+Grande Lisboa,1A0,13.06
+Amadora,1A01115,11.8
+Águas Livres,1A0111513,12.21
+Alfragide,1A0111512,11.35
+Encosta do Sol,1A0111514,10.31
+Falagueira-Venda Nova,1A0111515,12.2
+Mina de Água,1A0111516,11.12
+Venteira,1A0111517,13.33
+Cascais,1A01105,15.31
+Alcabideche,1A0110501,12.22
+São Domingos de Rana,1A0110506,12.99
+União das freguesias de Carcavelos e Parede,1A0110507,16.15
+União das freguesias de Cascais e Estoril,1A0110508,17.05
+Lisboa,1A01106,15.93
+Ajuda,1A0110601,17.06
+Alcântara,1A0110602,15.27
+Alvalade,1A0110654,15.07
+Areeiro,1A0110655,14.87
+Arroios,1A0110656,15.0
+Avenidas Novas,1A0110657,16.56
+Beato,1A0110607,15.41
+Belém,1A0110658,16.14
+Benfica,1A0110608,14.89
+Campo de Ourique,1A0110659,19.02
+Campolide,1A0110610,17.05
+Carnide,1A0110611,16.27
+Estrela,1A0110660,17.8
+Lumiar,1A0110618,14.35
+Marvila,1A0110621,15.28
+Misericórdia,1A0110661,18.35
+Olivais,1A0110633,14.16
+Parque das Nações,1A0110662,19.05
+Penha de França,1A0110663,15.0
+Santa Clara,1A0110664,12.16
+Santa Maria Maior,1A0110665,19.33
+Santo António,1A0110666,20.0
+São Domingos de Benfica,1A0110639,14.8
+São Vicente,1A0110667,16.24
+Loures,1A01107,10.56
+Bucelas,1A0110702,6.89
+Fanhões,1A0110705,0.0
+Loures,1A0110707,10.0
+Lousa,1A0110708,0.0
+"União das freguesias de Camarate, Unhos e Apelação",1A0110731,9.49
+União das freguesias de Moscavide e Portela,1A0110726,12.55
+União das freguesias de Sacavém e Prior Velho,1A0110727,12.3
+"União das freguesias de Santa Iria de Azoia, São João da Talha e Bobadela",1A0110728,9.12
+União das freguesias de Santo Antão e São Julião do Tojal,1A0110729,7.39
+União das freguesias de Santo António dos Cavaleiros e Frielas,1A0110730,11.7
+Mafra,1A01109,9.49
+Carvoeira,1A0110902,0.0
+Encarnação,1A0110904,0.0
+Ericeira,1A0110906,13.47
+Mafra,1A0110909,9.0
+Milharado,1A0110911,6.6
+Santo Isidoro,1A0110913,0.0
+União das freguesias de Azueira e Sobral da Abelheira,1A0110918,0.0
+"União das freguesias de Enxara do Bispo, Gradil e Vila Franca do Rosário",1A0110919,0.0
+União das freguesias de Igreja Nova e Cheleiros,1A0110920,8.26
+União das freguesias de Malveira e São Miguel de Alcainça,1A0110921,7.88
+União das freguesias de Venda do Pinheiro e Santo Estêvão das Galés,1A0110922,7.42
+Odivelas,1A01116,11.41
+Odivelas,1A0111603,12.31
+União das freguesias de Pontinha e Famões,1A0111608,10.12
+União das freguesias de Póvoa de Santo Adrião e Olival Basto,1A0111609,11.86
+União das freguesias de Ramada e Caneças,1A0111610,10.54
+Oeiras,1A01110,13.8
+Barcarena,1A0111002,11.35
+Porto Salvo,1A0111009,11.95
+"União das freguesias de Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",1A0111012,14.38
+União das freguesias de Carnaxide e Queijas,1A0111013,12.56
+"União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",1A0111014,14.9
+Sintra,1A01111,10.2
+Algueirão-Mem Martins,1A0111102,9.97
+Casal de Cambra,1A0111115,8.04
+Colares,1A0111105,10.24
+Rio de Mouro,1A0111108,10.1
+União das freguesias de Agualva e Mira-Sintra,1A0111122,10.82
+"União das freguesias de Almargem do Bispo, Pêro Pinheiro e Montelavar",1A0111123,7.27
+União das freguesias de Massamá e Monte Abraão,1A0111125,10.53
+União das freguesias de Queluz e Belas,1A0111126,11.03
+União das freguesias de São João das Lampas e Terrugem,1A0111127,7.18
+"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",1A0111128,10.77
+União das freguesias do Cacém e São Marcos,1A0111124,10.72
+Vila Franca de Xira,1A01114,9.76
+"União das freguesias de Alhandra, São João dos Montes e Calhandriz",1A0111412,8.57
+União das freguesias de Alverca do Ribatejo e Sobralinho,1A0111413,10.1
+União das freguesias de Castanheira do Ribatejo e Cachoeiras,1A0111414,8.69
+União das freguesias de Póvoa de Santa Iria e Forte da Casa,1A0111415,10.02
+Vialonga,1A0111408,9.34
+Vila Franca de Xira,1A0111409,9.8
+Península de Setúbal,1B,9.99
+Península de Setúbal,1B0,9.99
+Alcochete,1B01502,9.24
+Alcochete,1B0150201,9.49
+Samouco,1B0150202,0.0
+São Francisco,1B0150203,0.0
+Almada,1B01503,11.76
+Costa da Caparica,1B0150303,15.37
+"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",1B0150312,11.84
+União das freguesias de Caparica e Trafaria,1B0150313,9.38
+União das freguesias de Charneca de Caparica e Sobreda,1B0150314,11.35
+União das freguesias de Laranjeiro e Feijó,1B0150315,11.19
+Barreiro,1B01504,10.04
+Santo António da Charneca,1B0150407,8.37
+"União das freguesias de Alto do Seixalinho, Santo André e Verderena",1B0150409,10.32
+União das freguesias de Barreiro e Lavradio,1B0150410,9.88
+União das freguesias de Palhais e Coina,1B0150411,0.0
+Moita,1B01506,9.1
+Alhos Vedros,1B0150601,7.73
+Moita,1B0150603,8.27
+União das freguesias de Baixa da Banheira e Vale da Amoreira,1B0150607,10.19
+União das freguesias de Gaio-Rosário e Sarilhos Pequenos,1B0150608,0.0
+Montijo,1B01507,9.12
+Canha,1B0150701,0.0
+Sarilhos Grandes,1B0150704,0.0
+União das freguesias de Atalaia e Alto Estanqueiro-Jardia,1B0150709,0.0
+União das freguesias de Montijo e Afonsoeiro,1B0150710,9.31
+União das freguesias de Pegões,1B0150711,0.0
+Palmela,1B01508,8.3
+Palmela,1B0150802,7.21
+Pinhal Novo,1B0150803,8.13
+Quinta do Anjo,1B0150804,11.53
+União das freguesias de Poceirão e Marateca,1B0150806,0.0
+Seixal,1B01510,9.94
+Amora,1B0151002,9.47
+Corroios,1B0151005,10.37
+Fernão Ferro,1B0151006,6.7
+"União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires",1B0151007,10.53
+Sesimbra,1B01511,9.07
+Quinta do Conde,1B0151103,8.5
+Sesimbra (Castelo),1B0151101,8.36
+Sesimbra (Santiago),1B0151102,10.68
+Setúbal,1B01512,9.65
+Gâmbia-Pontes-Alto da Guerra,1B0151207,0.0
+Sado,1B0151208,0.0
+Setúbal (São Sebastião),1B0151205,9.02
+União das freguesias de Azeitão (São Lourenço e São Simão),1B0151209,9.54
+"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",1B0151210,10.52
+Alentejo,1C,5.12
+Alentejo Litoral,1C1,7.69
+Alcácer do Sal,1C11501,7.26
+Grândola,1C11505,9.11
+Odemira,1C10211,6.17
+Santiago do Cacém,1C11509,8.59
+Sines,1C11513,11.45
+Baixo Alentejo,1C2,5.2
+Aljustrel,1C20201,5.56
+Almodôvar,1C20202,4.88
+Alvito,1C20203,0.0
+Barrancos,1C20204,0.0
+Beja,1C20205,6.15
+Castro Verde,1C20206,0.0
+Cuba,1C20207,0.0
+Ferreira do Alentejo,1C20208,4.29
+Mértola,1C20209,0.0
+Moura,1C20210,4.0
+Ourique,1C20212,0.0
+Serpa,1C20213,0.0
+Vidigueira,1C20214,0.0
+Alto Alentejo,1C3,4.05
+Alter do Chão,1C31201,0.0
+Arronches,1C31202,0.0
+Avis,1C31203,0.0
+Campo Maior,1C31204,2.97
+Castelo de Vide,1C31205,0.0
+Crato,1C31206,0.0
+Elvas,1C31207,4.78
+Fronteira,1C31208,0.0
+Gavião,1C31209,0.0
+Marvão,1C31210,0.0
+Monforte,1C31211,0.0
+Nisa,1C31212,0.0
+Ponte de Sor,1C31213,4.68
+Portalegre,1C31214,3.78
+Sousel,1C31215,0.0
+Alentejo Central,1C4,5.16
+Alandroal,1C40701,0.0
+Arraiolos,1C40702,4.2
+Borba,1C40703,3.11
+Estremoz,1C40704,4.25
+Évora,1C40705,7.31
+Montemor-o-Novo,1C40706,5.0
+Mora,1C40707,0.0
+Mourão,1C40708,0.0
+Portel,1C40709,0.0
+Redondo,1C40710,5.08
+Reguengos de Monsaraz,1C40711,4.14
+Vendas Novas,1C40712,5.64
+Viana do Alentejo,1C40713,0.0
+Vila Viçosa,1C40714,3.6
+Algarve,15,9.41
+Algarve,150,9.41
+Albufeira,1500801,10.31
+Alcoutim,1500802,0.0
+Aljezur,1500803,7.56
+Castro Marim,1500804,7.51
+Faro,1500805,8.33
+Lagoa,1500806,8.75
+Lagos,1500807,10.11
+Loulé,1500808,10.81
+Monchique,1500809,0.0
+Olhão,1500810,8.09
+Portimão,1500811,10.42
+São Brás de Alportel,1500812,6.03
+Silves,1500813,8.59
+Tavira,1500814,9.61
+Vila do Bispo,1500815,8.02
+Vila Real de Santo António,1500816,8.91
+Região Autónoma dos Açores,2,5.0
+Região Autónoma dos Açores,20,5.0
+Região Autónoma dos Açores,200,5.0
+Angra do Heroísmo,2004301,4.95
+Calheta (R.A.A.),2004501,0.0
+Corvo,2004901,0.0
+Horta,2004701,4.15
+Lagoa (R.A.A.),2004201,4.62
+Lajes das Flores,2004801,0.0
+Lajes do Pico,2004601,0.0
+Madalena,2004602,4.29
+Nordeste,2004202,0.0
+Ponta Delgada,2004203,6.08
+Povoação,2004204,0.0
+Ribeira Grande,2004205,4.41
+Santa Cruz da Graciosa,2004401,0.0
+Santa Cruz das Flores,2004802,0.0
+São Roque do Pico,2004603,0.0
+Velas,2004502,0.0
+Vila da Praia da Vitória,2004302,5.45
+Vila do Porto,2004101,0.0
+Vila Franca do Campo,2004206,0.0
+Região Autónoma da Madeira,3,9.6
+Região Autónoma da Madeira,30,9.6
+Região Autónoma da Madeira,300,9.6
+Calheta (R.A.M.),3003101,5.59
+Câmara de Lobos,3003102,6.78
+Funchal,3003103,11.51
+Machico,3003104,5.98
+Ponta do Sol,3003105,0.0
+Porto Moniz,3003106,0.0
+Ribeira Brava,3003107,0.0
+Santa Cruz,3003108,9.02
+Santana,3003109,0.0
+São Vicente,3003110,0.0
+Porto Santo,3003201,0.0
