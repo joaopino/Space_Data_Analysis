@@ -1,0 +1,345 @@
+local,codigo,Valor médio dos bilhetes vendidos de espetáculos ao vivo
+Portugal,PT,26.0
+Continente,1,26.3
+Norte,11,19.1
+Alto Minho,111,46.8
+Arcos de Valdevez,1111601,0.0
+Caminha,1111602,0.0
+Melgaço,1111603,0.0
+Monção,1111604,3.9
+Paredes de Coura,1111605,0.0
+Ponte da Barca,1111606,0.0
+Ponte de Lima,1111607,6.5
+Valença,1111608,0.0
+Viana do Castelo,1111609,39.3
+Vila Nova de Cerveira,1111610,0.0
+Cávado,112,16.0
+Amares,1120301,0.0
+Barcelos,1120302,6.6
+Braga,1120303,18.1
+Esposende,1120306,5.2
+Terras de Bouro,1120310,0.0
+Vila Verde,1120313,0.0
+Ave,119,15.8
+Cabeceiras de Basto,1190304,0.0
+Fafe,1190307,16.4
+Guimarães,1190308,16.3
+Mondim de Basto,1191705,4.9
+Póvoa de Lanhoso,1190309,20.5
+Vieira do Minho,1190311,0.0
+Vila Nova de Famalicão,1190312,10.1
+Vizela,1190314,0.0
+Área Metropolitana do Porto,11A,18.9
+Arouca,11A0104,4.0
+Espinho,11A0107,10.4
+Gondomar,11A1304,24.0
+Maia,11A1306,13.1
+Matosinhos,11A1308,1.7
+Oliveira de Azeméis,11A0113,5.0
+Paredes,11A1310,0.0
+Porto,11A1312,22.4
+Póvoa de Varzim,11A1313,12.8
+Santa Maria da Feira,11A0109,8.1
+Santo Tirso,11A1314,1.4
+São João da Madeira,11A0116,7.4
+Trofa,11A1318,4.9
+Vale de Cambra,11A0119,0.0
+Valongo,11A1315,4.1
+Vila do Conde,11A1316,16.8
+Vila Nova de Gaia,11A1317,24.6
+Alto Tâmega,11B,12.7
+Boticas,11B1702,0.0
+Chaves,11B1703,0.0
+Montalegre,11B1706,0.0
+Ribeira de Pena,11B1709,0.0
+Valpaços,11B1712,0.0
+Vila Pouca de Aguiar,11B1713,0.0
+Tâmega e Sousa,11C,8.0
+Amarante,11C1301,9.7
+Baião,11C1302,0.0
+Castelo de Paiva,11C0106,0.0
+Celorico de Basto,11C0305,0.0
+Cinfães,11C1804,5.0
+Felgueiras,11C1303,6.5
+Lousada,11C1305,8.2
+Marco de Canaveses,11C1307,4.3
+Paços de Ferreira,11C1309,7.5
+Penafiel,11C1311,4.8
+Resende,11C1813,0.0
+Douro,11D,7.1
+Alijó,11D1701,0.0
+Armamar,11D1801,0.0
+Carrazeda de Ansiães,11D0403,29.7
+Freixo de Espada à Cinta,11D0404,0.0
+Lamego,11D1805,4.3
+Mesão Frio,11D1704,0.0
+Moimenta da Beira,11D1807,0.0
+Murça,11D1707,0.0
+Penedono,11D1812,0.0
+Peso da Régua,11D1708,16.0
+Sabrosa,11D1710,0.0
+Santa Marta de Penaguião,11D1711,0.0
+São João da Pesqueira,11D1815,0.0
+Sernancelhe,11D1818,0.0
+Tabuaço,11D1819,0.0
+Tarouca,11D1820,0.0
+Torre de Moncorvo,11D0409,0.0
+Vila Nova de Foz Côa,11D0914,0.0
+Vila Real,11D1714,8.4
+Terras de Trás-os-Montes,11E,5.7
+Alfândega da Fé,11E0401,0.0
+Bragança,11E0402,5.6
+Macedo de Cavaleiros,11E0405,5.3
+Miranda do Douro,11E0406,0.0
+Mirandela,11E0407,0.0
+Mogadouro,11E0408,0.0
+Vila Flor,11E0410,0.0
+Vimioso,11E0411,6.0
+Vinhais,11E0412,0.0
+Centro,16,30.6
+Oeste,16B,9.8
+Alcobaça,16B1001,9.7
+Alenquer,16B1101,9.9
+Arruda dos Vinhos,16B1102,4.1
+Bombarral,16B1005,3.0
+Cadaval,16B1104,0.0
+Caldas da Rainha,16B1006,11.0
+Lourinhã,16B1108,9.5
+Nazaré,16B1011,0.0
+Óbidos,16B1012,18.7
+Peniche,16B1014,0.0
+Sobral de Monte Agraço,16B1112,12.6
+Torres Vedras,16B1113,8.3
+Região de Aveiro,16D,9.7
+Águeda,16D0101,13.8
+Albergaria-a-Velha,16D0102,8.9
+Anadia,16D0103,0.0
+Aveiro,16D0105,7.9
+Estarreja,16D0108,10.7
+Ílhavo,16D0110,6.3
+Murtosa,16D0112,0.0
+Oliveira do Bairro,16D0114,6.8
+Ovar,16D0115,13.9
+Sever do Vouga,16D0117,8.4
+Vagos,16D0118,0.0
+Região de Coimbra,16E,51.4
+Arganil,16E0601,0.0
+Cantanhede,16E0602,5.8
+Coimbra,16E0603,73.5
+Condeixa-a-Nova,16E0604,2.8
+Figueira da Foz,16E0605,14.0
+Góis,16E0606,0.0
+Lousã,16E0607,0.0
+Mealhada,16E0111,12.2
+Mira,16E0608,0.0
+Miranda do Corvo,16E0609,7.1
+Montemor-o-Velho,16E0610,4.1
+Mortágua,16E1808,5.0
+Oliveira do Hospital,16E0611,0.0
+Pampilhosa da Serra,16E0612,2.3
+Penacova,16E0613,11.0
+Penela,16E0614,0.0
+Soure,16E0615,0.0
+Tábua,16E0616,12.3
+Vila Nova de Poiares,16E0617,5.0
+Região de Leiria,16F,7.6
+Alvaiázere,16F1002,0.0
+Ansião,16F1003,0.0
+Batalha,16F1004,13.4
+Castanheira de Pêra,16F1007,0.0
+Figueiró dos Vinhos,16F1008,0.0
+Leiria,16F1009,7.6
+Marinha Grande,16F1010,6.7
+Pedrógão Grande,16F1013,0.0
+Pombal,16F1015,6.5
+Porto de Mós,16F1016,11.7
+Viseu Dão Lafões,16G,6.4
+Aguiar da Beira,16G0901,6.7
+Carregal do Sal,16G1802,0.0
+Castro Daire,16G1803,0.0
+Mangualde,16G1806,0.0
+Nelas,16G1809,0.0
+Oliveira de Frades,16G1810,0.0
+Penalva do Castelo,16G1811,0.0
+Santa Comba Dão,16G1814,0.0
+São Pedro do Sul,16G1816,0.0
+Sátão,16G1817,0.0
+Tondela,16G1821,4.1
+Vila Nova de Paiva,16G1822,5.5
+Viseu,16G1823,6.6
+Vouzela,16G1824,4.4
+Beira Baixa,16H,0.0
+Castelo Branco,16H0502,10.3
+Idanha-a-Nova,16H0505,277.3
+Oleiros,16H0506,0.0
+Penamacor,16H0507,0.0
+Proença-a-Nova,16H0508,0.0
+Vila Velha de Ródão,16H0511,20.3
+Médio Tejo,16I,0.0
+Abrantes,16I1401,1.0
+Alcanena,16I1402,7.0
+Constância,16I1408,0.0
+Entroncamento,16I1410,6.5
+Ferreira do Zêzere,16I1411,7.4
+Mação,16I1413,3.3
+Ourém,16I1421,5.8
+Sardoal,16I1417,0.0
+Sertã,16I0509,0.0
+Tomar,16I1418,15.7
+Torres Novas,16I1419,12.5
+Vila de Rei,16I0510,0.0
+Vila Nova da Barquinha,16I1420,0.0
+Beiras e Serra da Estrela,16J,3.7
+Almeida,16J0902,0.0
+Belmonte,16J0501,0.0
+Celorico da Beira,16J0903,0.0
+Covilhã,16J0503,3.5
+Figueira de Castelo Rodrigo,16J0904,0.0
+Fornos de Algodres,16J0905,0.0
+Fundão,16J0504,13.0
+Gouveia,16J0906,7.4
+Guarda,16J0907,11.9
+Manteigas,16J0908,1.8
+Mêda,16J0909,0.0
+Pinhel,16J0910,0.0
+Sabugal,16J0911,0.0
+Seia,16J0912,7.8
+Trancoso,16J0913,3.0
+Área Metropolitana de Lisboa,17,30.3
+Área Metropolitana de Lisboa,170,30.3
+Alcochete,1701502,15.0
+Almada,1701503,17.7
+Amadora,1701115,9.6
+Barreiro,1701504,8.3
+Cascais,1701105,15.3
+Lisboa,1701106,26.9
+Loures,1701107,4.9
+Mafra,1701109,5.0
+Moita,1701506,7.5
+Montijo,1701507,7.7
+Odivelas,1701116,10.5
+Oeiras,1701110,66.9
+Palmela,1701508,8.3
+Seixal,1701510,7.7
+Sesimbra,1701511,50.9
+Setúbal,1701512,10.1
+Sintra,1701111,12.9
+Vila Franca de Xira,1701114,12.1
+Alentejo,18,16.4
+Alentejo Litoral,181,35.2
+Alcácer do Sal,1811501,0.0
+Grândola,1811505,0.0
+Odemira,1810211,77.6
+Santiago do Cacém,1811509,2.6
+Sines,1811513,23.1
+Baixo Alentejo,184,9.0
+Aljustrel,1840201,5.0
+Almodôvar,1840202,0.0
+Alvito,1840203,0.0
+Barrancos,1840204,0.0
+Beja,1840205,13.3
+Castro Verde,1840206,3.8
+Cuba,1840207,0.0
+Ferreira do Alentejo,1840208,0.0
+Mértola,1840209,0.0
+Moura,1840210,0.0
+Ourique,1840212,0.0
+Serpa,1840213,15.0
+Vidigueira,1840214,0.0
+Lezíria do Tejo,185,7.0
+Almeirim,1851403,6.4
+Alpiarça,1851404,0.0
+Azambuja,1851103,0.0
+Benavente,1851405,6.1
+Cartaxo,1851406,10.8
+Chamusca,1851407,3.8
+Coruche,1851409,0.0
+Golegã,1851412,0.0
+Rio Maior,1851414,4.8
+Salvaterra de Magos,1851415,0.0
+Santarém,1851416,8.1
+Alto Alentejo,186,8.0
+Alter do Chão,1861201,7.3
+Arronches,1861202,0.0
+Avis,1861203,6.2
+Campo Maior,1861204,0.0
+Castelo de Vide,1861205,0.0
+Crato,1861206,0.0
+Elvas,1861207,7.2
+Fronteira,1861208,0.0
+Gavião,1861209,0.0
+Marvão,1861210,0.0
+Monforte,1861211,0.0
+Nisa,1861212,12.4
+Ponte de Sor,1861213,10.9
+Portalegre,1861214,0.0
+Sousel,1861215,3.4
+Alentejo Central,187,10.4
+Alandroal,1870701,0.0
+Arraiolos,1870702,0.0
+Borba,1870703,0.0
+Estremoz,1870704,5.5
+Évora,1870705,12.2
+Montemor-o-Novo,1870706,3.0
+Mora,1870707,0.0
+Mourão,1870708,0.0
+Portel,1870709,4.5
+Redondo,1870710,0.0
+Reguengos de Monsaraz,1870711,5.0
+Vendas Novas,1870712,0.0
+Viana do Alentejo,1870713,0.0
+Vila Viçosa,1870714,0.0
+Algarve,15,14.5
+Algarve,150,14.5
+Albufeira,1500801,15.6
+Alcoutim,1500802,0.0
+Aljezur,1500803,8.9
+Castro Marim,1500804,0.0
+Faro,1500805,19.9
+Lagoa,1500806,7.9
+Lagos,1500807,9.3
+Loulé,1500808,8.7
+Monchique,1500809,0.0
+Olhão,1500810,11.8
+Portimão,1500811,15.9
+São Brás de Alportel,1500812,0.0
+Silves,1500813,13.5
+Tavira,1500814,9.7
+Vila do Bispo,1500815,2.8
+Vila Real de Santo António,1500816,0.0
+Região Autónoma dos Açores,2,15.8
+Região Autónoma dos Açores,20,15.8
+Região Autónoma dos Açores,200,15.8
+Angra do Heroísmo,2004301,15.8
+Calheta,2004501,0.0
+Corvo,2004901,0.0
+Horta,2004701,0.0
+Lagoa,2004201,11.7
+Lajes das Flores,2004801,0.0
+Lajes do Pico,2004601,0.0
+Madalena,2004602,0.0
+Nordeste,2004202,0.0
+Ponta Delgada,2004203,18.8
+Povoação,2004204,0.0
+Ribeira Grande,2004205,10.2
+Santa Cruz da Graciosa,2004401,0.0
+Santa Cruz das Flores,2004802,0.0
+São Roque do Pico,2004603,0.0
+Velas,2004502,0.0
+Vila da Praia da Vitória,2004302,0.0
+Vila do Porto,2004101,22.6
+Vila Franca do Campo,2004206,0.0
+Região Autónoma da Madeira,3,13.9
+Região Autónoma da Madeira,30,13.9
+Região Autónoma da Madeira,300,13.9
+Calheta,3003101,10.0
+Câmara de Lobos,3003102,0.0
+Funchal,3003103,14.1
+Machico,3003104,4.3
+Ponta do Sol,3003105,10.4
+Porto Moniz,3003106,0.0
+Porto Santo,3003201,0.0
+Ribeira Brava,3003107,0.0
+Santa Cruz,3003108,0.0
+Santana,3003109,0.0
+São Vicente,3003110,0.0
