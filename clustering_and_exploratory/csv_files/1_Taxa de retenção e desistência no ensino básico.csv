@@ -1,0 +1,309 @@
+local,codigo,retencao_desistencia_ensino_basico
+Arcos de Valdevez,1111601,0
+Caminha,1111602,0
+Melgaço,1111603,0
+Monção,1111604,0
+Paredes de Coura,1111605,0
+Ponte da Barca,1111606,0
+Ponte de Lima,1111607,0
+Valença,1111608,0
+Viana do Castelo,1111609,0
+Vila Nova de Cerveira,1111610,0
+Amares,1120301,0
+Barcelos,1120302,0
+Braga,1120303,0
+Esposende,1120306,0
+Terras de Bouro,1120310,0
+Vila Verde,1120313,0
+Fafe,1130307,0
+Guimarães,1130308,0
+Póvoa de Lanhoso,1130309,0
+Santo Tirso,1131314,0
+Trofa,1131318,0
+Vieira do Minho,1130311,0
+Vila Nova de Famalicão,1130312,0
+Vizela,1130314,0
+Espinho,1140107,0
+Gondomar,1141304,0
+Maia,1141306,0
+Matosinhos,1141308,0
+Porto,1141312,0
+Póvoa de Varzim,1141313,0
+Valongo,1141315,0
+Vila do Conde,1141316,0
+Vila Nova de Gaia,1141317,0
+Amarante,1151301,0
+Baião,1151302,0
+Cabeceiras de Basto,1150304,0
+Castelo de Paiva,1150106,0
+Celorico de Basto,1150305,0
+Cinfães,1151804,0
+Felgueiras,1151303,0
+Lousada,1151305,0
+Marco de Canaveses,1151307,0
+Mondim de Basto,1151705,0
+Paços de Ferreira,1151309,0
+Paredes,1151310,0
+Penafiel,1151311,0
+Resende,1151813,0
+Ribeira de Pena,1151709,0
+Arouca,1160104,0
+Oliveira de Azeméis,1160113,0
+Santa Maria da Feira,1160109,0
+São João da Madeira,1160116,0
+Vale de Cambra,1160119,0
+Alijó,1171701,0
+Armamar,1171801,0
+Carrazeda de Ansiães,1170403,0
+Freixo de Espada à Cinta,1170404,1
+Lamego,1171805,0
+Mesão Frio,1171704,0
+Moimenta da Beira,1171807,0
+Penedono,1171812,0
+Peso da Régua,1171708,1
+Sabrosa,1171710,0
+Santa Marta de Penaguião,1171711,0
+São João da Pesqueira,1171815,1
+Sernancelhe,1171818,0
+Tabuaço,1171819,0
+Tarouca,1171820,0
+Torre de Moncorvo,1170409,1
+Vila Flor,1170410,1
+Vila Nova de Foz Côa,1170914,1
+Vila Real,1171714,0
+Alfândega da Fé,1180401,0
+Boticas,1181702,0
+Bragança,1180402,0
+Chaves,1181703,0
+Macedo de Cavaleiros,1180405,1
+Miranda do Douro,1180406,0
+Mirandela,1180407,0
+Mogadouro,1180408,1
+Montalegre,1181706,0
+Murça,1181707,0
+Valpaços,1181712,1
+Vila Pouca de Aguiar,1181713,0
+Vimioso,1180411,0
+Vinhais,1180412,1
+Águeda,1610101,0
+Albergaria-a-Velha,1610102,0
+Anadia,1610103,0
+Aveiro,1610105,0
+Estarreja,1610108,0
+Ílhavo,1610110,0
+Mealhada,1610111,0
+Murtosa,1610112,1
+Oliveira do Bairro,1610114,0
+Ovar,1610115,0
+Sever do Vouga,1610117,0
+Vagos,1610118,0
+Cantanhede,1620602,0
+Coimbra,1620603,0
+Condeixa-a-Nova,1620604,0
+Figueira da Foz,1620605,0
+Mira,1620608,0
+Montemor-o-Velho,1620610,0
+Penacova,1620613,0
+Soure,1620615,0
+Batalha,1631004,0
+Leiria,1631009,0
+Marinha Grande,1631010,0
+Pombal,1631015,0
+Porto de Mós,1631016,0
+Alvaiázere,1641002,0
+Ansião,1641003,0
+Arganil,1640601,0
+Castanheira de Pêra,1641007,0
+Figueiró dos Vinhos,1641008,0
+Góis,1640606,0
+Lousã,1640607,0
+Miranda do Corvo,1640609,0
+Oliveira do Hospital,1640611,0
+Pampilhosa da Serra,1640612,0
+Pedrógão Grande,1641013,0
+Penela,1640614,0
+Tábua,1640616,0
+Vila Nova de Poiares,1640617,0
+Aguiar da Beira,1650901,0
+Carregal do Sal,1651802,1
+Castro Daire,1651803,0
+Mangualde,1651806,0
+Mortágua,1651808,0
+Nelas,1651809,0
+Oliveira de Frades,1651810,0
+Penalva do Castelo,1651811,0
+Santa Comba Dão,1651814,0
+São Pedro do Sul,1651816,0
+Sátão,1651817,0
+Tondela,1651821,0
+Vila Nova de Paiva,1651822,1
+Viseu,1651823,0
+Vouzela,1651824,0
+Mação,1661413,0
+Oleiros,1660506,1
+Proença-a-Nova,1660508,0
+Sertã,1660509,0
+Vila de Rei,1660510,0
+Fornos de Algodres,1670905,1
+Gouveia,1670906,0
+Seia,1670912,0
+Almeida,1680902,0
+Celorico da Beira,1680903,0
+Figueira de Castelo Rodrigo,1680904,2
+Guarda,1680907,1
+Manteigas,1680908,0
+Mêda,1680909,0
+Pinhel,1680910,0
+Sabugal,1680911,1
+Trancoso,1680913,0
+Castelo Branco,1690502,0
+Idanha-a-Nova,1690505,2
+Penamacor,1690507,0
+Vila Velha de Ródão,1690511,2
+Belmonte,16A0501,0
+Covilhã,16A0503,0
+Fundão,16A0504,1
+Alcobaça,16B1001,0
+Alenquer,16B1101,1
+Arruda dos Vinhos,16B1102,0
+Bombarral,16B1005,0
+Cadaval,16B1104,0
+Caldas da Rainha,16B1006,0
+Lourinhã,16B1108,1
+Nazaré,16B1011,0
+Óbidos,16B1012,1
+Peniche,16B1014,1
+Sobral de Monte Agraço,16B1112,1
+Torres Vedras,16B1113,0
+Abrantes,16C1401,1
+Alcanena,16C1402,0
+Constância,16C1408,0
+Entroncamento,16C1410,1
+Ferreira do Zêzere,16C1411,0
+Ourém,16C1421,0
+Sardoal,16C1417,1
+Tomar,16C1418,0
+Torres Novas,16C1419,0
+Vila Nova da Barquinha,16C1420,0
+Amadora,1711115,1
+Cascais,1711105,0
+Lisboa,1711106,1
+Loures,1711107,1
+Mafra,1711109,0
+Odivelas,1711116,1
+Oeiras,1711110,0
+Sintra,1711111,1
+Vila Franca de Xira,1711114,1
+Alcochete,1721502,0
+Almada,1721503,1
+Barreiro,1721504,1
+Moita,1721506,1
+Montijo,1721507,1
+Palmela,1721508,0
+Seixal,1721510,1
+Sesimbra,1721511,0
+Setúbal,1721512,1
+Alcácer do Sal,1811501,0
+Grândola,1811505,1
+Odemira,1810211,1
+Santiago do Cacém,1811509,1
+Sines,1811513,0
+Alter do Chão,1821201,2
+Arronches,1821202,0
+Avis,1821203,2
+Campo Maior,1821204,1
+Castelo de Vide,1821205,0
+Crato,1821206,1
+Elvas,1821207,1
+Fronteira,1821208,0
+Gavião,1821209,0
+Marvão,1821210,0
+Monforte,1821211,0
+Mora,1820707,0
+Nisa,1821212,0
+Ponte de Sor,1821213,1
+Portalegre,1821214,0
+Alandroal,1830701,0
+Arraiolos,1830702,1
+Borba,1830703,1
+Estremoz,1830704,1
+Évora,1830705,0
+Montemor-o-Novo,1830706,1
+Mourão,1830708,2
+Portel,1830709,0
+Redondo,1830710,0
+Reguengos de Monsaraz,1830711,1
+Sousel,1831215,1
+Vendas Novas,1830712,0
+Viana do Alentejo,1830713,0
+Vila Viçosa,1830714,0
+Aljustrel,1840201,1
+Almodôvar,1840202,0
+Alvito,1840203,0
+Barrancos,1840204,1
+Beja,1840205,1
+Castro Verde,1840206,0
+Cuba,1840207,1
+Ferreira do Alentejo,1840208,1
+Mértola,1840209,0
+Moura,1840210,2
+Ourique,1840212,1
+Serpa,1840213,2
+Vidigueira,1840214,2
+Almeirim,1851403,1
+Alpiarça,1851404,0
+Azambuja,1851103,0
+Benavente,1851405,1
+Cartaxo,1851406,1
+Chamusca,1851407,0
+Coruche,1851409,1
+Golegã,1851412,1
+Rio Maior,1851414,1
+Salvaterra de Magos,1851415,1
+Santarém,1851416,1
+Albufeira,1500801,1
+Alcoutim,1500802,0
+Aljezur,1500803,1
+Castro Marim,1500804,0
+Faro,1500805,1
+Lagoa,1500806,0
+Lagos,1500807,0
+Loulé,1500808,1
+Monchique,1500809,1
+Olhão,1500810,0
+Portimão,1500811,1
+São Brás de Alportel,1500812,0
+Silves,1500813,1
+Tavira,1500814,1
+Vila do Bispo,1500815,1
+Vila Real de Santo António,1500816,1
+Angra do Heroísmo,2004301,1
+Calheta (R.A.A.),2004501,0
+Corvo,2004901,0
+Horta,2004701,1
+Lagoa (R.A.A),2004201,1
+Lajes das Flores,2004801,0
+Lajes do Pico,2004601,0
+Madalena,2004602,1
+Nordeste,2004202,0
+Ponta Delgada,2004203,1
+Povoação,2004204,2
+Ribeira Grande,2004205,2
+Santa Cruz da Graciosa,2004401,0
+Santa Cruz das Flores,2004802,0
+São Roque do Pico,2004603,0
+Velas,2004502,1
+Vila da Praia da Vitória,2004302,1
+Vila do Porto,2004101,1
+Vila Franca do Campo,2004206,1
+Calheta (R.A.M.),3003101,0
+Câmara de Lobos,3003102,0
+Funchal,3003103,0
+Machico,3003104,0
+Ponta do Sol,3003105,0
+Porto Moniz,3003106,0
+Porto Santo,3003201,1
+Ribeira Brava,3003107,1
+Santa Cruz,3003108,0
+Santana,3003109,1
+São Vicente,3003110,0
