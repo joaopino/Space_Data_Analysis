@@ -69,7 +69,7 @@ def filter_for_only_municipalities(df):
     df['codigo'] = df['codigo'].astype(str)
     df_municipios = df[df['codigo'].astype(str).apply(lambda x: len(x) == 4)].copy()
     
-    translation_table = pd.read_excel("municipality_translation_table.xlsx")
+    translation_table = pd.read_excel("auxiliary/municipality_translation_table.xlsx")
 
     # Create a mapping dictionary from the translation table
     mapping = dict(zip(translation_table['local'], translation_table['codigo']))
