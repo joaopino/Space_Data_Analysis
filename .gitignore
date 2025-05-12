@@ -1,3 +1,8 @@
 data/originais
 data/dados_municipio
 ade_venv/
+.DS_Store
+__pycache__/
+clustering_and_exploratory/auxiliary/__pycache__
+*.
+clustering_and_exploratory/csv_files/

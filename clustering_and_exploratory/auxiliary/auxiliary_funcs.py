@@ -76,6 +76,8 @@ def filter_for_only_municipalities(df):
 
     # Update the 'codigo' column in the DataFrame based on the 'local' column
     df_municipios['codigo'] = df_municipios['local'].map(mapping)
+    
+    df_municipios = df_municipios.drop_duplicates(subset=['local', 'codigo'])
 
     return df_municipios
 
@@ -169,3 +171,32 @@ def save_clustered_df_to_csv(df, output_path, file_name):
     # Save the dataframe to a CSV file
     df_to_save.to_csv(full_path, index=False)
     print(f"File saved to {full_path}")
+      
+def create_merged_dataset(folder_path="../csv_files", output_file="merged_dataset.csv"):
+    """
+    Merges all CSV files in the specified folder into a single dataset based on the 'local' attribute.
+
+    Parameters:
+        folder_path (str): Path to the folder containing CSV files.
+        output_file (str): Name of the output file to save the merged dataset.
+
+    Returns:
+        pd.DataFrame: The merged dataset.
+    """
+    csv_files = [f for f in os.listdir(folder_path) if f.endswith('.csv')]
+    dataframes = []
+
+    for file in csv_files:
+        file_path = os.path.join(folder_path, file)
+        df = pd.read_csv(file_path)
+        if 'codigo' in df.columns:
+            df = df.drop(columns='codigo')
+        dataframes.append(df)
+
+    # Merge datasets on the 'local' attribute
+    merged_dataset = dataframes[0]
+    for df in dataframes[1:]:
+        merged_dataset = pd.merge(merged_dataset, df, on='local', how='outer')
+
+    merged_dataset.to_csv(output_file, index=False)
+    return merged_dataset

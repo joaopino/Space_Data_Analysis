@@ -22,7 +22,7 @@ Mondim de Basto,1191705,0
 Póvoa de Lanhoso,1190309,0
 Vieira do Minho,1190311,0
 Vila Nova de Famalicão,1190312,1
-Vizela,1190314,1
+Vizela,1190314,0
 Arouca,11A0104,0
 Espinho,11A0107,1
 Gondomar,11A1304,1
@@ -51,7 +51,7 @@ Baião,11C1302,0
 Castelo de Paiva,11C0106,0
 Celorico de Basto,11C0305,0
 Cinfães,11C1804,0
-Felgueiras,11C1303,1
+Felgueiras,11C1303,0
 Lousada,11C1305,0
 Marco de Canaveses,11C1307,0
 Paços de Ferreira,11C1309,1
@@ -93,7 +93,7 @@ Cadaval,16B1104,0
 Caldas da Rainha,16B1006,1
 Lourinhã,16B1108,1
 Nazaré,16B1011,1
-Óbidos,16B1012,1
+Óbidos,16B1012,0
 Peniche,16B1014,1
 Sobral de Monte Agraço,16B1112,1
 Torres Vedras,16B1113,1
@@ -222,7 +222,7 @@ Ourique,1840212,0
 Serpa,1840213,0
 Vidigueira,1840214,0
 Almeirim,1851403,1
-Alpiarça,1851404,1
+Alpiarça,1851404,0
 Azambuja,1851103,2
 Benavente,1851405,1
 Cartaxo,1851406,1
@@ -281,7 +281,6 @@ Angra do Heroísmo,2004301,1
 Calheta,2004501,0
 Corvo,2004901,0
 Horta,2004701,1
-Lagoa,2004201,0
 Lajes das Flores,2004801,1
 Lajes do Pico,2004601,0
 Madalena,2004602,1
@@ -296,7 +295,6 @@ Velas,2004502,1
 Vila da Praia da Vitória,2004302,1
 Vila do Porto,2004101,1
 Vila Franca do Campo,2004206,0
-Calheta,3003101,0
 Câmara de Lobos,3003102,0
 Funchal,3003103,2
 Machico,3003104,0

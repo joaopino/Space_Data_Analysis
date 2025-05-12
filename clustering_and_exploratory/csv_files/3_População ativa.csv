@@ -11,13 +11,13 @@ Viana do Castelo,1111609,1
 Vila Nova de Cerveira,1111610,0
 Amares,1120301,0
 Barcelos,1120302,1
-Braga,1120303,1
+Braga,1120303,2
 Esposende,1120306,0
 Terras de Bouro,1120310,0
 Vila Verde,1120313,0
 Cabeceiras de Basto,1190304,0
 Fafe,1190307,0
-Guimarães,1190308,1
+Guimarães,1190308,2
 Mondim de Basto,1191705,0
 Póvoa de Lanhoso,1190309,0
 Vieira do Minho,1190311,0
@@ -25,15 +25,15 @@ Vila Nova de Famalicão,1190312,1
 Vizela,1190314,0
 Arouca,11A0104,0
 Espinho,11A0107,0
-Gondomar,11A1304,1
+Gondomar,11A1304,2
 Maia,11A1306,1
-Matosinhos,11A1308,1
-Oliveira de Azeméis,11A0113,0
+Matosinhos,11A1308,2
+Oliveira de Azeméis,11A0113,1
 Paredes,11A1310,1
-Porto,11A1312,1
-Póvoa de Varzim,11A1313,0
+Porto,11A1312,2
+Póvoa de Varzim,11A1313,1
 Santa Maria da Feira,11A0109,1
-Santo Tirso,11A1314,0
+Santo Tirso,11A1314,1
 São João da Madeira,11A0116,0
 Trofa,11A1318,0
 Vale de Cambra,11A0119,0
@@ -51,11 +51,11 @@ Baião,11C1302,0
 Castelo de Paiva,11C0106,0
 Celorico de Basto,11C0305,0
 Cinfães,11C1804,0
-Felgueiras,11C1303,0
-Lousada,11C1305,0
+Felgueiras,11C1303,1
+Lousada,11C1305,1
 Marco de Canaveses,11C1307,0
-Paços de Ferreira,11C1309,0
-Penafiel,11C1311,0
+Paços de Ferreira,11C1309,1
+Penafiel,11C1311,1
 Resende,11C1813,0
 Alijó,11D1701,0
 Armamar,11D1801,0
@@ -85,7 +85,7 @@ Mogadouro,11E0408,0
 Vila Flor,11E0410,0
 Vimioso,11E0411,0
 Vinhais,11E0412,0
-Alcobaça,16B1001,0
+Alcobaça,16B1001,1
 Alenquer,16B1101,0
 Arruda dos Vinhos,16B1102,0
 Bombarral,16B1005,0
@@ -105,14 +105,14 @@ Estarreja,16D0108,0
 Ílhavo,16D0110,0
 Murtosa,16D0112,0
 Oliveira do Bairro,16D0114,0
-Ovar,16D0115,0
+Ovar,16D0115,1
 Sever do Vouga,16D0117,0
 Vagos,16D0118,0
 Arganil,16E0601,0
 Cantanhede,16E0602,0
 Coimbra,16E0603,1
 Condeixa-a-Nova,16E0604,0
-Figueira da Foz,16E0605,0
+Figueira da Foz,16E0605,1
 Góis,16E0606,0
 Lousã,16E0607,0
 Mealhada,16E0111,0
@@ -186,20 +186,20 @@ Sabugal,16J0911,0
 Seia,16J0912,0
 Trancoso,16J0913,0
 Alcochete,1701502,0
-Almada,1701503,1
-Amadora,1701115,1
-Barreiro,1701504,0
-Cascais,1701105,1
+Almada,1701503,2
+Amadora,1701115,2
+Barreiro,1701504,1
+Cascais,1701105,2
 Lisboa,1701106,2
-Loures,1701107,1
+Loures,1701107,2
 Mafra,1701109,1
-Moita,1701506,0
-Montijo,1701507,0
+Moita,1701506,1
+Montijo,1701507,1
 Odivelas,1701116,1
-Oeiras,1701110,1
-Palmela,1701508,0
-Seixal,1701510,1
-Sesimbra,1701511,0
+Oeiras,1701110,2
+Palmela,1701508,1
+Seixal,1701510,2
+Sesimbra,1701511,1
 Setúbal,1701512,1
 Sintra,1701111,2
 Vila Franca de Xira,1701114,1
@@ -231,7 +231,7 @@ Coruche,1851409,0
 Golegã,1851412,0
 Rio Maior,1851414,0
 Salvaterra de Magos,1851415,0
-Santarém,1851416,0
+Santarém,1851416,1
 Alter do Chão,1861201,0
 Arronches,1861202,0
 Avis,1861203,0
@@ -251,7 +251,7 @@ Alandroal,1870701,0
 Arraiolos,1870702,0
 Borba,1870703,0
 Estremoz,1870704,0
-Évora,1870705,0
+Évora,1870705,1
 Montemor-o-Novo,1870706,0
 Mora,1870707,0
 Mourão,1870708,0
@@ -265,13 +265,13 @@ Albufeira,1500801,0
 Alcoutim,1500802,0
 Aljezur,1500803,0
 Castro Marim,1500804,0
-Faro,1500805,0
+Faro,1500805,1
 Lagoa,2004201,0
 Lagos,1500807,0
-Loulé,1500808,0
+Loulé,1500808,1
 Monchique,1500809,0
 Olhão,1500810,0
-Portimão,1500811,0
+Portimão,1500811,1
 São Brás de Alportel,1500812,0
 Silves,1500813,0
 Tavira,1500814,0
@@ -281,12 +281,11 @@ Angra do Heroísmo,2004301,0
 Calheta,3003101,0
 Corvo,2004901,0
 Horta,2004701,0
-Lagoa,2004201,0
 Lajes das Flores,2004801,0
 Lajes do Pico,2004601,0
 Madalena,2004602,0
 Nordeste,2004202,0
-Ponta Delgada,2004203,0
+Ponta Delgada,2004203,1
 Povoação,2004204,0
 Ribeira Grande,2004205,0
 Santa Cruz da Graciosa,2004401,0
@@ -296,7 +295,6 @@ Velas,2004502,0
 Vila da Praia da Vitória,2004302,0
 Vila do Porto,2004101,0
 Vila Franca do Campo,2004206,0
-Calheta,3003101,0
 Câmara de Lobos,3003102,0
 Funchal,3003103,1
 Machico,3003104,0
