@@ -102,7 +102,7 @@ def aplicar_kmeans(df, n_clusters=3, nome_cluster='cluster'):
     scaler = StandardScaler()
     dados_escalados = scaler.fit_transform(dados_numericos)
 
-    kmeans = KMeans(n_clusters=n_clusters, random_state=42, n_init='auto')
+    kmeans = KMeans(n_clusters=n_clusters, random_state=42, n_init=10)
     labels = kmeans.fit_predict(dados_escalados)
 
     # Ordena os clusters
