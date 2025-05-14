@@ -1,0 +1,309 @@
+local,codigo,valor_processado_IRS
+Arcos de Valdevez,1111601,271.0
+Caminha,1111602,265.0
+Melgaço,1111603,84.0
+Monção,1111604,171.0
+Paredes de Coura,1111605,113.0
+Ponte da Barca,1111606,151.0
+Ponte de Lima,1111607,379.0
+Valença,1111608,428.0
+Viana do Castelo,1111609,1827.0
+Vila Nova de Cerveira,1111610,131.0
+Amares,1120301,276.0
+Barcelos,1120302,655.0
+Braga,1120303,2947.0
+Esposende,1120306,308.0
+Terras de Bouro,1120310,62.0
+Vila Verde,1120313,392.0
+Cabeceiras de Basto,1190304,399.0
+Fafe,1190307,678.0
+Guimarães,1190308,1674.0
+Mondim de Basto,1191705,184.0
+Póvoa de Lanhoso,1190309,304.0
+Vieira do Minho,1190311,269.0
+Vila Nova de Famalicão,1190312,2046.0
+Vizela,1190314,170.0
+Arouca,11A0104,308.0
+Espinho,11A0107,1075.0
+Gondomar,11A1304,7091.0
+Maia,11A1306,4755.0
+Matosinhos,11A1308,7319.0
+Oliveira de Azeméis,11A0113,789.0
+Paredes,11A1310,2863.0
+Porto,11A1312,19931.0
+Póvoa de Varzim,11A1313,1876.0
+Santa Maria da Feira,11A0109,3022.0
+Santo Tirso,11A1314,1794.0
+São João da Madeira,11A0116,548.0
+Trofa,11A1318,831.0
+Vale de Cambra,11A0119,292.0
+Valongo,11A1315,4372.0
+Vila do Conde,11A1316,1516.0
+Vila Nova de Gaia,11A1317,16150.0
+Boticas,11B1702,115.0
+Chaves,11B1703,1660.0
+Montalegre,11B1706,299.0
+Ribeira de Pena,11B1709,268.0
+Valpaços,11B1712,766.0
+Vila Pouca de Aguiar,11B1713,368.0
+Amarante,11C1301,2079.0
+Baião,11C1302,1017.0
+Castelo de Paiva,11C0106,319.0
+Celorico de Basto,11C0305,542.0
+Cinfães,11C1804,927.0
+Felgueiras,11C1303,1102.0
+Lousada,11C1305,834.0
+Marco de Canaveses,11C1307,2369.0
+Paços de Ferreira,11C1309,1599.0
+Penafiel,11C1311,2062.0
+Resende,11C1813,523.0
+Alijó,11D1701,570.0
+Armamar,11D1801,159.0
+Carrazeda de Ansiães,11D0403,190.0
+Freixo de Espada à Cinta,11D0404,216.0
+Lamego,11D1805,1114.0
+Mesão Frio,11D1704,178.0
+Moimenta da Beira,11D1807,775.0
+Murça,11D1707,354.0
+Penedono,11D1812,127.0
+Peso da Régua,11D1708,1122.0
+Sabrosa,11D1710,200.0
+Santa Marta de Penaguião,11D1711,518.0
+São João da Pesqueira,11D1815,151.0
+Sernancelhe,11D1818,208.0
+Tabuaço,11D1819,315.0
+Tarouca,11D1820,327.0
+Torre de Moncorvo,11D0409,179.0
+Vila Nova de Foz Côa,11D0914,141.0
+Vila Real,11D1714,2191.0
+Alfândega da Fé,11E0401,213.0
+Bragança,11E0402,1050.0
+Macedo de Cavaleiros,11E0405,679.0
+Miranda do Douro,11E0406,150.0
+Mirandela,11E0407,771.0
+Mogadouro,11E0408,395.0
+Vila Flor,11E0410,131.0
+Vimioso,11E0411,119.0
+Vinhais,11E0412,395.0
+Águeda,1910101,808.0
+Albergaria-a-Velha,1910102,517.0
+Anadia,1910103,323.0
+Aveiro,1910105,1873.0
+Estarreja,1910108,1153.0
+Ílhavo,1910110,996.0
+Murtosa,1910112,67.0
+Oliveira do Bairro,1910114,578.0
+Ovar,1910115,1458.0
+Sever do Vouga,1910117,134.0
+Vagos,1910118,344.0
+Arganil,1920601,217.0
+Cantanhede,1920602,647.0
+Coimbra,1920603,4817.0
+Condeixa-a-Nova,1920604,146.0
+Figueira da Foz,1920605,2341.0
+Góis,1920606,79.0
+Lousã,1920607,477.0
+Mealhada,1920111,250.0
+Mira,1920608,165.0
+Miranda do Corvo,1920609,229.0
+Montemor-o-Velho,1920610,333.0
+Mortágua,1921808,96.0
+Oliveira do Hospital,1920611,368.0
+Pampilhosa da Serra,1920612,96.0
+Penacova,1920613,192.0
+Penela,1920614,77.0
+Soure,1920615,269.0
+Tábua,1920616,331.0
+Vila Nova de Poiares,1920617,115.0
+Alvaiázere,1931002,175.0
+Ansião,1931003,284.0
+Batalha,1931004,226.0
+Castanheira de Pêra,1931007,91.0
+Figueiró dos Vinhos,1931008,168.0
+Leiria,1931009,2503.0
+Marinha Grande,1931010,1224.0
+Pedrógão Grande,1931013,168.0
+Pombal,1931015,1110.0
+Porto de Mós,1931016,386.0
+Aguiar da Beira,1940901,93.0
+Carregal do Sal,1941802,212.0
+Castro Daire,1941803,465.0
+Mangualde,1941806,595.0
+Nelas,1941809,335.0
+Oliveira de Frades,1941810,81.0
+Penalva do Castelo,1941811,152.0
+Santa Comba Dão,1941814,303.0
+São Pedro do Sul,1941816,292.0
+Sátão,1941817,399.0
+Tondela,1941821,411.0
+Vila Nova de Paiva,1941822,84.0
+Viseu,1941823,3460.0
+Vouzela,1941824,89.0
+Castelo Branco,1950502,1534.0
+Idanha-a-Nova,1950505,744.0
+Oleiros,1950506,60.0
+Penamacor,1950507,173.0
+Proença-a-Nova,1950508,111.0
+Sertã,1950509,376.0
+Vila de Rei,1950510,42.0
+Vila Velha de Ródão,1950511,70.0
+Almeida,1960902,133.0
+Belmonte,1960501,259.0
+Celorico da Beira,1960903,211.0
+Covilhã,1960503,1499.0
+Figueira de Castelo Rodrigo,1960904,259.0
+Fornos de Algodres,1960905,131.0
+Fundão,1960504,1131.0
+Gouveia,1960906,427.0
+Guarda,1960907,1274.0
+Manteigas,1960908,88.0
+Mêda,1960909,74.0
+Pinhel,1960910,140.0
+Sabugal,1960911,340.0
+Seia,1960912,813.0
+Trancoso,1960913,141.0
+Alcobaça,1D11001,833.0
+Alenquer,1D11101,775.0
+Arruda dos Vinhos,1D11102,164.0
+Bombarral,1D11005,159.0
+Cadaval,1D11104,192.0
+Caldas da Rainha,1D11006,535.0
+Lourinhã,1D11108,599.0
+Nazaré,1D11011,157.0
+Óbidos,1D11012,114.0
+Peniche,1D11014,464.0
+Sobral de Monte Agraço,1D11112,139.0
+Torres Vedras,1D11113,1208.0
+Abrantes,1D21401,1231.0
+Alcanena,1D21402,192.0
+Constância,1D21408,134.0
+Entroncamento,1D21410,582.0
+Ferreira do Zêzere,1D21411,153.0
+Mação,1D21413,114.0
+Ourém,1D21421,602.0
+Sardoal,1D21417,89.0
+Tomar,1D21418,1030.0
+Torres Novas,1D21419,630.0
+Vila Nova da Barquinha,1D21420,226.0
+Almeirim,1D31403,495.0
+Alpiarça,1D31404,86.0
+Azambuja,1D31103,583.0
+Benavente,1D31405,778.0
+Cartaxo,1D31406,322.0
+Chamusca,1D31407,137.0
+Coruche,1D31409,644.0
+Golegã,1D31412,98.0
+Rio Maior,1D31414,361.0
+Salvaterra de Magos,1D31415,457.0
+Santarém,1D31416,1598.0
+Amadora,1A01115,5235.0
+Cascais,1A01105,5204.0
+Lisboa,1A01106,27006.0
+Loures,1A01107,6377.0
+Mafra,1A01109,1050.0
+Odivelas,1A01116,3670.0
+Oeiras,1A01110,2345.0
+Sintra,1A01111,7940.0
+Vila Franca de Xira,1A01114,3167.0
+Alcochete,1B01502,388.0
+Almada,1B01503,8298.0
+Barreiro,1B01504,3705.0
+Moita,1B01506,3716.0
+Montijo,1B01507,2218.0
+Palmela,1B01508,990.0
+Seixal,1B01510,5480.0
+Sesimbra,1B01511,1510.0
+Setúbal,1B01512,4795.0
+Alcácer do Sal,1C11501,153.0
+Grândola,1C11505,282.0
+Odemira,1C10211,443.0
+Santiago do Cacém,1C11509,291.0
+Sines,1C11513,396.0
+Aljustrel,1C20201,533.0
+Almodôvar,1C20202,131.0
+Alvito,1C20203,93.0
+Barrancos,1C20204,61.0
+Beja,1C20205,1977.0
+Castro Verde,1C20206,132.0
+Cuba,1C20207,328.0
+Ferreira do Alentejo,1C20208,249.0
+Mértola,1C20209,194.0
+Moura,1C20210,2076.0
+Ourique,1C20212,81.0
+Serpa,1C20213,1063.0
+Vidigueira,1C20214,392.0
+Alter do Chão,1C31201,187.0
+Arronches,1C31202,21.0
+Avis,1C31203,326.0
+Campo Maior,1C31204,506.0
+Castelo de Vide,1C31205,39.0
+Crato,1C31206,154.0
+Elvas,1C31207,1547.0
+Fronteira,1C31208,44.0
+Gavião,1C31209,84.0
+Marvão,1C31210,75.0
+Monforte,1C31211,433.0
+Nisa,1C31212,192.0
+Ponte de Sor,1C31213,407.0
+Portalegre,1C31214,518.0
+Sousel,1C31215,194.0
+Alandroal,1C40701,51.0
+Arraiolos,1C40702,60.0
+Borba,1C40703,374.0
+Estremoz,1C40704,599.0
+Évora,1C40705,1405.0
+Montemor-o-Novo,1C40706,166.0
+Mora,1C40707,61.0
+Mourão,1C40708,418.0
+Portel,1C40709,189.0
+Redondo,1C40710,204.0
+Reguengos de Monsaraz,1C40711,618.0
+Vendas Novas,1C40712,225.0
+Viana do Alentejo,1C40713,167.0
+Vila Viçosa,1C40714,97.0
+Albufeira,1500801,1567.0
+Alcoutim,1500802,35.0
+Aljezur,1500803,141.0
+Castro Marim,1500804,251.0
+Faro,1500805,2468.0
+Lagoa,1500806,805.0
+Lagos,1500807,780.0
+Loulé,1500808,2130.0
+Monchique,1500809,105.0
+Olhão,1500810,1136.0
+Portimão,1500811,3012.0
+São Brás de Alportel,1500812,253.0
+Silves,1500813,670.0
+Tavira,1500814,466.0
+Vila do Bispo,1500815,78.0
+Vila Real de Santo António,1500816,443.0
+Angra do Heroísmo,2004301,967.0
+Calheta (R.A.A.),2004501,33.0
+Corvo,2004901,9.0
+Horta,2004701,244.0
+Lagoa (R.A.A.),2004201,836.0
+Lajes das Flores,2004801,23.0
+Lajes do Pico,2004601,49.0
+Madalena,2004602,120.0
+Nordeste,2004202,334.0
+Ponta Delgada,2004203,4900.0
+Povoação,2004204,381.0
+Ribeira Grande,2004205,3192.0
+Santa Cruz da Graciosa,2004401,229.0
+Santa Cruz das Flores,2004802,42.0
+São Roque do Pico,2004603,51.0
+Velas,2004502,77.0
+Vila da Praia da Vitória,2004302,622.0
+Vila do Porto,2004101,89.0
+Vila Franca do Campo,2004206,424.0
+Calheta (R.A.M.),3003101,343.0
+Câmara de Lobos,3003102,692.0
+Funchal,3003103,3646.0
+Machico,3003104,422.0
+Ponta do Sol,3003105,234.0
+Porto Moniz,3003106,54.0
+Ribeira Brava,3003107,230.0
+Santa Cruz,3003108,550.0
+Santana,3003109,252.0
+São Vicente,3003110,148.0
+Porto Santo,3003201,69.0
