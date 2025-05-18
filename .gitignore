@@ -5,4 +5,5 @@ ade_venv/
 __pycache__/
 clustering_and_exploratory/auxiliary/__pycache__
 *.
+*.DS_Store
 clustering_and_exploratory/csv_files/
