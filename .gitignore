@@ -1,4 +1,7 @@
-*.DS_Store
+.DS_Store
+**/.DS_Store
+__pycache__/
+**/__pycache__/
 
 ade_venv/
 
@@ -7,11 +10,9 @@ data/dados_municipio
 data/final_dataset.csv
 data/geojson_files/
 
-
-__pycache__/
 clustering_and_exploratory/auxiliary/__pycache__
 clustering_and_exploratory/csv_bruto/
-
-*.
 clustering_and_exploratory/csv_files/
 clustering_and_exploratory/geojson_files/
+
+Analysis_and_Visualizations/attribute_cluster_analysis
