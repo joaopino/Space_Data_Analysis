@@ -10,6 +10,8 @@ data/geojson_files/
 
 __pycache__/
 clustering_and_exploratory/auxiliary/__pycache__
+clustering_and_exploratory/csv_bruto/
+
 *.
 clustering_and_exploratory/csv_files/
 clustering_and_exploratory/geojson_files/
