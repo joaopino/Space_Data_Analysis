@@ -157,7 +157,7 @@ def plot_map(dataframe, attribute, color_map):
     
     
     
-def saves_pic_of_clusters_analysis(dataframe, attribute, color_map, title, output_folder):
+def saves_pic_of_clusters_analysis(dataframe, attribute, color_map, title, output_folder,label):
 
     dataframe.to_crs(pyproj.CRS.from_epsg(4326), inplace=True)
     dataframe[attribute] = dataframe[attribute].astype(str) #Sees the attribute as a caregory instead of a scale
@@ -179,11 +179,18 @@ def saves_pic_of_clusters_analysis(dataframe, attribute, color_map, title, outpu
                   "Cluster: %{customdata[1]}<extra></extra>")
     
     # Ensure the color scale is discrete and add a legend title
-    fig.update_layout(
-        legend_title_text=attribute,
-        coloraxis_showscale=False,
-    )
     
+    if label == False:
+        fig.update_layout(
+            legend_title_text="",
+            coloraxis_showscale=False,
+        )
+        fig.update_traces(showlegend=False)  # This line hides the legend items
+    else:
+        fig.update_layout(
+            legend_title_text=attribute,
+            coloraxis_showscale=False,
+        )
     # Save the plot as a PNG file in the cluster_maps/ directory
 
     os.makedirs(output_folder, exist_ok=True)
