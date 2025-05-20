@@ -194,9 +194,20 @@ def saves_pic_of_clusters_analysis(dataframe, attribute, color_map, title, outpu
     # Save the plot as a PNG file in the cluster_maps/ directory
 
     os.makedirs(output_folder, exist_ok=True)
-    output_path = os.path.join(output_folder, f"{title.replace(' ', '_')}.png")
-    pio.write_image(fig, output_path, format='png')
-    print(f"Plot saved as {output_path}")
+    output_path = os.path.join(output_folder, f"{title}.png")
+    # pio.write_image(fig, output_path, format='png')
+    # print(f"Plot saved as {output_path}")
+    # To improve image quality, increase width, height, and scale
+    # high_res_path = os.path.join(output_folder, f"{title.replace(' ', '_')}_highres.png")
+    pio.write_image(
+        fig,
+        output_path,
+        format='png',
+        width=1920,
+        height=1080,
+        scale=3  # Increase scale for higher DPI
+    )
+    print(f"High-resolution plot saved as {output_folder}")
    
     
 
